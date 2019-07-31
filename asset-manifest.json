@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/arkofe-app/static/css/main.0f83eca5.chunk.css",
-    "main.js": "/arkofe-app/static/js/main.301894a7.chunk.js",
-    "main.js.map": "/arkofe-app/static/js/main.301894a7.chunk.js.map",
+    "main.js": "/arkofe-app/static/js/main.61c11995.chunk.js",
+    "main.js.map": "/arkofe-app/static/js/main.61c11995.chunk.js.map",
     "runtime~main.js": "/arkofe-app/static/js/runtime~main.15ba3ea2.js",
     "runtime~main.js.map": "/arkofe-app/static/js/runtime~main.15ba3ea2.js.map",
     "static/js/2.84144a85.chunk.js": "/arkofe-app/static/js/2.84144a85.chunk.js",
     "static/js/2.84144a85.chunk.js.map": "/arkofe-app/static/js/2.84144a85.chunk.js.map",
     "index.html": "/arkofe-app/index.html",
-    "precache-manifest.20315af7d93ca6db784b3e2daad4e8df.js": "/arkofe-app/precache-manifest.20315af7d93ca6db784b3e2daad4e8df.js",
+    "precache-manifest.0a59ab21e280f86138a0ee63245ec303.js": "/arkofe-app/precache-manifest.0a59ab21e280f86138a0ee63245ec303.js",
     "service-worker.js": "/arkofe-app/service-worker.js",
     "static/css/main.0f83eca5.chunk.css.map": "/arkofe-app/static/css/main.0f83eca5.chunk.css.map"
   }
