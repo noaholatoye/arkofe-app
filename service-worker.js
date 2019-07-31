@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/arkofe-app/precache-manifest.b71da88856934245b6b7f4c4d965677b.js"
+  "/arkofe-app/precache-manifest.b3e6e47434129fb1a11aea326c31ff89.js"
 );
 
 self.addEventListener('message', (event) => {
