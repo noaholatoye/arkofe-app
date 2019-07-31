@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ea88711e1586557f4557e094bec03e0",
+    "revision": "8231327d01ac9fb08c5b94a912e2a7d5",
     "url": "/arkofe-app/index.html"
   },
   {
-    "revision": "87588ed11cbfe8d3a992",
+    "revision": "7cd890f8f7b3229b1b10",
     "url": "/arkofe-app/static/css/main.f34992c1.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/arkofe-app/static/js/2.4f5a3187.chunk.js"
   },
   {
-    "revision": "87588ed11cbfe8d3a992",
-    "url": "/arkofe-app/static/js/main.a5a3244d.chunk.js"
+    "revision": "7cd890f8f7b3229b1b10",
+    "url": "/arkofe-app/static/js/main.85eb6480.chunk.js"
   },
   {
     "revision": "53f876befe0c5b0cc608",
