@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/arkofe-app/static/css/main.2cce8147.chunk.css",
+    "main.js": "/arkofe-app/static/js/main.702366b9.chunk.js",
+    "main.js.map": "/arkofe-app/static/js/main.702366b9.chunk.js.map",
+    "runtime~main.js": "/arkofe-app/static/js/runtime~main.15ba3ea2.js",
+    "runtime~main.js.map": "/arkofe-app/static/js/runtime~main.15ba3ea2.js.map",
+    "static/js/2.b41502e9.chunk.js": "/arkofe-app/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/arkofe-app/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/arkofe-app/index.html",
+    "precache-manifest.b71da88856934245b6b7f4c4d965677b.js": "/arkofe-app/precache-manifest.b71da88856934245b6b7f4c4d965677b.js",
+    "service-worker.js": "/arkofe-app/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/arkofe-app/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/arkofe-app/static/media/logo.5d5d9eef.svg"
+  }
+}
