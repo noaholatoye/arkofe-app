@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/arkofe-app/static/css/main.0f83eca5.chunk.css",
-    "main.js": "/arkofe-app/static/js/main.61c11995.chunk.js",
-    "main.js.map": "/arkofe-app/static/js/main.61c11995.chunk.js.map",
+    "main.css": "/arkofe-app/static/css/main.54f93bdb.chunk.css",
+    "main.js": "/arkofe-app/static/js/main.168f48db.chunk.js",
+    "main.js.map": "/arkofe-app/static/js/main.168f48db.chunk.js.map",
     "runtime~main.js": "/arkofe-app/static/js/runtime~main.15ba3ea2.js",
     "runtime~main.js.map": "/arkofe-app/static/js/runtime~main.15ba3ea2.js.map",
-    "static/js/2.84144a85.chunk.js": "/arkofe-app/static/js/2.84144a85.chunk.js",
-    "static/js/2.84144a85.chunk.js.map": "/arkofe-app/static/js/2.84144a85.chunk.js.map",
+    "static/js/2.4f5a3187.chunk.js": "/arkofe-app/static/js/2.4f5a3187.chunk.js",
+    "static/js/2.4f5a3187.chunk.js.map": "/arkofe-app/static/js/2.4f5a3187.chunk.js.map",
     "index.html": "/arkofe-app/index.html",
-    "precache-manifest.0a59ab21e280f86138a0ee63245ec303.js": "/arkofe-app/precache-manifest.0a59ab21e280f86138a0ee63245ec303.js",
+    "precache-manifest.9e55f8fbfdea5189829dc6fc878f120d.js": "/arkofe-app/precache-manifest.9e55f8fbfdea5189829dc6fc878f120d.js",
     "service-worker.js": "/arkofe-app/service-worker.js",
-    "static/css/main.0f83eca5.chunk.css.map": "/arkofe-app/static/css/main.0f83eca5.chunk.css.map"
+    "static/css/main.54f93bdb.chunk.css.map": "/arkofe-app/static/css/main.54f93bdb.chunk.css.map",
+    "static/media/App.css": "/arkofe-app/static/media/shutterstock_691408807.bcb55e24.jpg"
   }
 }
